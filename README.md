@@ -1,4 +1,4 @@
-#How to run
+# How to run
 
 before that, make sure you have already installed git, java and maven
 
